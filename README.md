@@ -4,7 +4,7 @@ A visualization tool for different pathfinding algorithms. Walls are impassable 
 
 ## Demonstration
 
-https://alexarne.github.io/Pathfinding-Visualizer/
+
 
 ## Algorithms
 
