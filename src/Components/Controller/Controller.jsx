@@ -63,7 +63,7 @@ function Controller() {
   return (
     <div className="controller">
       <div className="controls">
-        <Dropdown icon="Mode">
+        <Dropdown icon="Mode" >
           <DropdownMenu name="modes-front">
             <DropdownItem type={"title"}>Paint Mode</DropdownItem>
 
